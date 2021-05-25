@@ -1,0 +1,12 @@
+ext{
+    // Build -> Edit Libraries and Dependencies
+    //
+    // Settings -> Inspections -> Lint -> Newer Library Versions Available (search "newer")
+    // Analyze -> Run Inspection by Name, search Newer Library Versions Available
+    kotlin_version = "1.4.10"
+    navigation_version = "2.3.3"
+    dagger_version = "2.31.2"
+    okhttp_version = "4.9.0"
+    retrofit_version = "2.9.0"
+    moshi_version = "1.9.3"
+}
